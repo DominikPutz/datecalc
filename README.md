@@ -23,6 +23,6 @@ Full documentation and unit tests also included.
 The python [datetime](https://www.w3schools.com/python/python_datetime.asp) module is used for implementation.
 Basically, the date should be in the format of:
 
-    2021-03-26 10:03:25.796123
+    '%Y-%m-%d %H:%M:%S'
 
 *Note: No timezones are considered as well as daylight saving time.*
