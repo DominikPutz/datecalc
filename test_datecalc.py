@@ -17,7 +17,7 @@ def test_convert_datetime2string():
     # Check if convert_datetime2string works as expected
     format = '%Y-%m-%d %H:%M:%S'
     # datetime(year, month, day, hour, minute, second)
-    date_time_obj = datetime.datetime(2021, 3, 5, 12, 44, 22) 
+    date_time_obj = datetime.datetime(2021, 3, 5, 12, 44, 22)
     datetime_string = '2021-03-05 12:44:22'
     assert convert_datetime2string(date_time_obj, format) == datetime_string
 
