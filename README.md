@@ -3,6 +3,9 @@
 Copyright (c) 2021 Dominik Putz
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![commits](https://img.shields.io/github/last-commit/DominikPutz/datecalc)](https://github.com/DominikPutz/datecalc/commits/main)
+[![workflow](https://img.shields.io/github/workflow/status/DominikPutz/datecalc/Run%20tests)](https://github.com/DominikPutz/datecalc/actions/workflows/pytest.yml)
+[![language](https://img.shields.io/github/languages/top/DominikPutz/datecalc?color=violet)](https://www.python.org/)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
