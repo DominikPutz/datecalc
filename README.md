@@ -24,3 +24,5 @@ The python [datetime](https://www.w3schools.com/python/python_datetime.asp) modu
 Basically, the date should be in the format of:
 
     2021-03-26 10:03:25.796123
+
+*Note: No timezones are considered as well as daylight saving time.*
