@@ -21,6 +21,6 @@ A simple beginner project, where 2 dates are input and the amount of time betwee
 Full documentation and unit tests also included.
 
 The python [datetime](https://www.w3schools.com/python/python_datetime.asp) module is used for implementation.
-Basically, the Date should be in the format of:
+Basically, the date should be in the format of:
 
     2021-03-26 10:03:25.796123
