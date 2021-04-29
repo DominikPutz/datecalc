@@ -28,5 +28,7 @@ def test_calc_time_difference():
     # Check if calc_time_difference works as expected
     date_time_obj1 = datetime.datetime(2021, 3, 5, 12, 44, 22)
     date_time_obj2 = datetime.datetime(2021, 3, 25, 14, 23, 11)
-    date_time_difference = datetime.timedelta(days=20, hours=1, minutes=38, seconds=50)
-    assert calc_time_difference(date_time_obj1, date_time_obj2) == date_time_difference
+    date_time_difference = datetime.timedelta(
+        days=20, hours=1, minutes=38, seconds=50)
+    assert calc_time_difference(
+        date_time_obj1, date_time_obj2) == date_time_difference
